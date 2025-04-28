@@ -1,0 +1,22 @@
+{
+    "name": "aliyunpcs/sls-2",
+    "description": "The Php SDK of Aliyuncs SLS log service(PSR-4)",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "SLS\\": "src/SLS"
+        }
+    },
+    "authors": [
+        {
+            "name": "pangxp"
+        }
+    ],
+    "require": {
+        "php":">=7.2"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "*"
+    }
+}
