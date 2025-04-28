@@ -2,11 +2,15 @@
 
 ## API VERSION
 
-0.6.4
+2.0.0
 
 ## SDK RELEASE TIME
 
 2024-05-28
+
+## SDK RELEASE UPDATE TIME
+
+2025-04-28
 
 ## Introduction
 
