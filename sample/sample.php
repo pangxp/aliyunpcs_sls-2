@@ -22,7 +22,6 @@ use SLS\Models\Request\GetLogsRequest;
 use SLS\Models\Request\LogStoreSqlRequest;
 use SLS\Models\Request\GetProjectLogsRequest;
 use SLS\Models\Request\ProjectSqlRequest;
-use SLS\Models\Request\GetHistogramsRequest;
 
 function putLogs(Client $client, $project, $logstore) {
     $topic = 'TestTopic';
